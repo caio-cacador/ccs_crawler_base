@@ -2,10 +2,15 @@
 Utilities to using with any crawler
 
 ## Installation
-
-pip install git+ssh://git@github.com:caio-cacador/crawler_api.git
+Example using latest version:
+`pip install git+ssh://git@github.com/caio-cacador/ccs_crawler_base.git@latest`
+Example using a specific version:
+`pip install git+ssh://git@github.com/caio-cacador/ccs_crawler_base.git@1.0.0`
 
 ## Changes
-* v1.0.0
- -- Added crawler base
- -- Added methods get_element_by and get_elements_by
+###1.0.1
+`Fix README.md description`
+
+###1.0.0
+`Added crawler base`\
+`Added methods get_element_by and get_elements_by`
