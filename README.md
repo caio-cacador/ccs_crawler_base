@@ -10,6 +10,7 @@ Example using a specific version:\
 ## Changes
 ### 1.0.1
 `Fix README.md description`
+`Added LICENSE file`
 
 ### 1.0.0
 `Added crawler base`\
